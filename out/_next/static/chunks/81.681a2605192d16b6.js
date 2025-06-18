@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[81],{7081:function(e){e.exports=JSON.parse('{"success":true,"data":{"country":"ZA","countryName":"South Africa","city":"Cape Town","region":"Western Cape","timezone":"Africa/Johannesburg","currency":"ZAR","ip":"static"}}')}}]);
